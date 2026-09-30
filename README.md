@@ -1,6 +1,8 @@
 # TesloShop
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.2.
+Este proyecto es de carácter educativo, del curso de angular de Fernando Herrera: https://www.udemy.com/course/angular-fernando-herrera. En este caso corresponde a la Sección 18: TesloShop Aplicación administrativa.
+
+
 
 ## Development server
 
